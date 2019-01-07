@@ -1,7 +1,7 @@
 # Sports-Betting-RL
-Sports betting with Deep Reinforcement Learning
+Sports betting with Deep Reinforcement Learning - Practice 
 
-***This is an adapted version of the "Gambler's Problem" that I've applied to sports betting. Details below***
+***This is an adapted version of the "Gambler's Problem" that I've applied to sports betting from a video by Siraj Raval. Details below***
 
 -The Gambler Problem as discussed in Example 4.3 in Reinforcement Learning: An Introduction by Richard S. Sutton and Andrew G. Barto. -The problem from the book is described below:
 
